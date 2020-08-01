@@ -1,0 +1,16 @@
+.sub_card{
+    background-color:white ;
+    height: 150px;
+    width:300px;
+    padding: 30px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.sub_btn{
+    background-color: rgb(243,168,71);
+    border: 1px solid;
+    height: 30px;
+}

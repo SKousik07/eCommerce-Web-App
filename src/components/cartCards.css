@@ -1,0 +1,46 @@
+.cart_card{
+    display: flex;
+    flex-direction: row;
+    
+    width: 90%;
+}
+
+.card_imgdiv{
+    object-fit: contain;
+    height: 180px;
+    width: 200px   
+}
+
+.card_content{
+    text-align: left;
+    width: 100%;
+    
+}
+
+.card_img{
+    height: 100%;
+    width: 100%;
+}
+
+.card_btn{
+    display: flex;
+    flex-direction: row;
+   justify-content: center;
+   align-items: center;
+}
+
+.card_sym{
+    display: flex;
+    align-items: center;
+    margin-right: auto;
+    justify-content: space-between;  
+   
+}
+.card_remove{
+    text-align: right;
+    margin-left: 50px;
+}
+
+.card_q{
+    margin: 3px;
+}

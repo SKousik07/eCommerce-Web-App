@@ -1,0 +1,22 @@
+.card_list{
+    width: 70%;
+    margin-left: 0.5%;
+}
+
+.cart_empty{
+    height: 20%;
+    width: 20%;
+}
+
+.card_checkout{
+      width: 30%;
+      position: fixed;
+      right: 0;
+      text-align: center;
+      margin-top: 60px;
+}
+
+.cart_layout{
+    display: flex;
+
+}

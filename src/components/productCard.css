@@ -1,0 +1,44 @@
+.card_img{
+    height: 70%;
+    width: 70%;
+
+}
+.card_div{
+    object-fit: contain;
+}
+
+.card_text{
+    color: blue;
+}
+
+.card_btn{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.product_layout{
+    display: flex;
+    flex-direction: row;
+}
+
+.product_sidenav{
+    width: 20%;
+    height: 100vh;
+    background-color:white;
+    margin: 20px;
+    position: fixed!important;
+    left:0;
+}
+
+.product_main{
+    width: 70%;
+    margin-left: 20%;
+}
+
+.star{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
