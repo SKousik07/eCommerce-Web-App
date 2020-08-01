@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo
+
+Open [https://shopping-zone-24a43.web.app/](https://shopping-zone-24a43.web.app/) to view demo
+
 ## Available Scripts
 
 In the project directory, you can run:
